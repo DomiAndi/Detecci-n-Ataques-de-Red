@@ -7,7 +7,7 @@
 Dashboard interactivo para detectar intrusiones en redes usando un modelo **Random Forest** entrenado con el dataset **NSL-KDD**.
 
 ## 🚀 Demo en vivo
-👉 [Probar la app aquí](https://tu-app-aqui.streamlit.app)
+👉 [Probar la app aquí](https://detecci-n-ataques-de-red-9gvjkmzypmvecrmnklyygc.streamlit.app/)
 
 ## 📊 Características principales
 - Predicción en tiempo real con datos manuales
