@@ -4,6 +4,7 @@ import numpy as np
 import pickle
 import plotly.graph_objects as go
 import plotly.express as px
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score, confusion_matrix
 
 # Configuración de la página
 st.set_page_config(
